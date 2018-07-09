@@ -1,5 +1,5 @@
 var i;
 i = 0
-for (i = 0; i < 100; i++) {
+for (i = 1; i < 101; i++) {
 console.log(i)
 }
