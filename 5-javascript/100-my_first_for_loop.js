@@ -1,5 +1,5 @@
-int = 100
-while (int > 0) {
-    console.log(int)
-int--
+var i;
+i = 0
+for (i = 0; i < 100; i++) {
+console.log(i)
 }
