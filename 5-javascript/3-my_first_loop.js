@@ -1,4 +1,4 @@
-while (int < 10) {
+while (int < 11) {
     console.log(int)
-	int = int + 1
-  }
+	int++
+}
